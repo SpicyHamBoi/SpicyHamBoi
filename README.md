@@ -1,5 +1,5 @@
 ### 👋 Hi there random scavenger, welcome to my github page.
-### 📡 How to reach me: my discord: SpicyHamBoi#8998 or reach out to me on github.
+### 📡 How to reach me, my discord: SpicyHamBoi#8998 or reach out to me on github.
 ### 🍪 Fun fact: i enjoy warm cookies while coding.
 
 <!--
