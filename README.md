@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hi there random scavenger, welcome to my github page.
+### 📡 How to reach me: my discord: SpicyHamBoi#8998 or reach out to me on github.
+### 🍪 Fun fact: i enjoy warm cookies while coding.
 
 <!--
 **SpicyHamBoi/SpicyHamBoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
