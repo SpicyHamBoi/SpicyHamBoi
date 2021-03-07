@@ -1,6 +1,6 @@
 ### 👋 Hi there random scavenger, welcome to my github page.
 ### 📡 How to reach me, my discord: SpicyHamBoi#8998 or reach out to me on github.
-[![Python Versions](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-orange)](https://github.com/kkrypt0nn/Python-Discord-Bot-Template)  
+[![Python Versions](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-orange)](https://github.com/SpicyHamBoi)  
 <!--
 **SpicyHamBoi/SpicyHamBoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
