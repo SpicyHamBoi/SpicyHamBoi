@@ -1,5 +1,7 @@
 ### 👋 Hi there random scavenger, welcome to my github page.
 ### 📡 How to reach me, my discord: SpicyHamBoi#8998 or reach out to me on github.
+### -🔭 I’m currently working on a discord bot.
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/SpicyHamBoi)  
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/SpicyHamBoi)
 [![OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/SpicyHamBoi)
