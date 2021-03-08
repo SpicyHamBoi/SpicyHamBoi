@@ -5,7 +5,7 @@
 [![OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/SpicyHamBoi)
 [![OS phone](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/SpicyHamBoi)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/SpicyHamBoi)
-[![Made with love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/SpicyHamBoi)
+
 
 
 <!--
