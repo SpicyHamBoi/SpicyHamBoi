@@ -1,4 +1,4 @@
-### 👋 Hi there random scavenger, welcome to my github page.
+### 👋 Hey there random scavenger, welcome to my github page.
 ### 📡 How to reach me, my discord: SpicyHamBoi#8998 or reach out to me on github.
 ### 📐 I’m currently working on a discord bot.
 
