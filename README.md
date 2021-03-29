@@ -1,6 +1,6 @@
 ### 👋 Hey there random scavenger, welcome to my github page.
 ### 📡 How to reach me, my discord: SpicyHamBoi#8998 or reach out to me on github.
-### 💎 27.03.21 :)
+### 🔧 I’m currently working on a website
 
 
 
