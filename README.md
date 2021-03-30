@@ -1,4 +1,4 @@
-### 👨‍🔧 Selium Anarchy Dev
+### 👨‍💻 Selium Anarchy Dev
 ### 📡 How to reach me? My discord: SpicyHamBoi#8998 or reach out to me on github.
 ### 🔧 I’m currently working on stuff
 
