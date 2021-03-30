@@ -1,7 +1,7 @@
 ### 👨‍💻 Selium Anarchy Dev
 ### 📡 How to reach me? My discord: SpicyHamBoi#8998 or reach out to me on github.
 ### 🔧 I’m currently working on stuff
-[![SpicyHamBoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpicyHamBoi)](https://github.com/anuraghazra/github-readme-stats)
+![SpicyHamBoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 
 
 
