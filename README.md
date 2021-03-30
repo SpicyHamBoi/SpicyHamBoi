@@ -1,6 +1,6 @@
-### 👋 Hey there random scavenger, welcome to my github page.
-### 📡 How to reach me, my discord: SpicyHamBoi#8998 or reach out to me on github.
-### 🔧 I’m currently working on a website
+### 👨‍🔧 Selium Anarchy Dev
+### 📡 How to reach me? My discord: SpicyHamBoi#8998 or reach out to me on github.
+### 🔧 I’m currently working on stuff
 
 
 
