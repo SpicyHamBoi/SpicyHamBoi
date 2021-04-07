@@ -14,4 +14,4 @@ Discord - SpicyHamBoi#8998 <br />
 Website - (coming soon)<br />
 Minecraft username - SpicyHamBoy <br />
 
-[![SpicyHamBoi's github stats](https://github-readme-stats.vercel.app/api?username=SpicyHamBoi&show_icons=true&theme=prussian&hide=issues)](https://github.com/SpicyHamBoi/github-readme-stats)
+[![SpicyHamBoi's github stats](https://github-readme-stats.vercel.app/api?username=SpicyHamBoi&show_icons=true&theme=tokyonight&hide=issues)](https://github.com/SpicyHamBoi/github-readme-stats)
