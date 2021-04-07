@@ -20,4 +20,4 @@ Website - (coming soon)<br />
 Minecraft username - SpicyHamBoy <br />
 Github - you are on github check more carefully
 
-[![SpicyHamBoi's github stats](https://github-readme-stats.vercel.app/api?username=SpicyHamBoi&show_icons=true&theme=tokyonight&hide=issues)](https://github.com/SpicyHamBoi/github-readme-stats)
+[![SpicyHamBoi's github stats](https://github-readme-stats.vercel.app/api?username=SpicyHamBoi&show_icons=true&theme=onedark&hide=issues)](https://github.com/SpicyHamBoi/github-readme-stats)
