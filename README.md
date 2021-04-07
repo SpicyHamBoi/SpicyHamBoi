@@ -24,7 +24,7 @@ Minecraft username - SpicyHamBoy <br />
 Github - you are on github check more carefully
 
 ![SpicyHamBoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpicyHamBoi&show_icons=true&theme=onedark&&hide=stars)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpicyHamBoi&layout=compact)](https://github.com/SpicyHamBoi/github-readme-stats)
+
 
                                                                            
 
