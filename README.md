@@ -3,20 +3,15 @@ Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 a
 
 ## Projects 
 **works in progress** <br>
-- OreTX- a discord bot.
-  - postman++, a paid extension of postman with a few exclusive features.
-- beach house, a private latest version fabric client for minecraft, based off bedroom.
-- bedroom, a public latest version fabric base for minecraft clients.
+- SpicyHook a discord webhook spammer.
 
 **unfinished** <br>
-- Moo Base, a public minecraft forge 1.12.2 client base, meant to be as simple as possible for anyone to use.
-- get-on-top-of.me, a personal website i'm doing for fun, and will help me start getting into html and web development a little more.
-- Las Venturas, a private minecraft 1.12.2 client in mcp that i'm mostly doing for the fun of it.
-
+- OreTX discord bot(have too many projects and not too much time)
+- Selium Anarchy website(waiting for my friend to finish CSS)
 
 ## Info 
 Discord - SpicyHamBoi#8998 <br />
-Website - (comingsoon)<br />
+Website - (coming soon)<br />
 Minecraft username - SpicyHamBoy <br />
 
 [![SpicyHamBoi's github stats](https://github-readme-stats.vercel.app/api?username=SpicyHamBoi&show_icons=true&theme=prussian&hide=issues)](https://github.com/SpicyHamBoi/github-readme-stats)
