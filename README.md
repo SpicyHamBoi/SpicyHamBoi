@@ -23,18 +23,6 @@ Github - you are on github check more carefully
 [![SpicyHamBoi's github stats](https://github-readme-stats.vercel.app/api?username=SpicyHamBoi&show_icons=true&theme=onedark&hide=issues)](https://github.com/SpicyHamBoi/github-readme-stats)
 
 
-
-
-
- ___  ___  ________  _____ ______   ________  ________  ___  ________      
-|\  \|\  \|\   __  \|\   _ \  _   \|\   ____\|\   __  \|\  \|\   ___  \    
-\ \  \\\  \ \  \|\  \ \  \\\__\ \  \ \  \___|\ \  \|\  \ \  \ \  \\ \  \   
- \ \   __  \ \   __  \ \  \\|__| \  \ \  \    \ \  \\\  \ \  \ \  \\ \  \  
-  \ \  \ \  \ \  \ \  \ \  \    \ \  \ \  \____\ \  \\\  \ \  \ \  \\ \  \ 
-   \ \__\ \__\ \__\ \__\ \__\    \ \__\ \_______\ \_______\ \__\ \__\\ \__\
-    \|__|\|__|\|__|\|__|\|__|     \|__|\|_______|\|_______|\|__|\|__| \|__|
-                                                                           
-                                                                           
                                                                            
 
 
