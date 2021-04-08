@@ -3,7 +3,8 @@ Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 a
 
 ## Projects 
 **Active Projects** <br>
-- SpicyHook a discord webhook spammer.
+- SpicyHook 
+- HamCoin
 
 
 **Unfinished Projects** <br>
