@@ -8,11 +8,15 @@ Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 a
 
 
 **Unfinished Projects** <br>
-- OreTX discord bot(have too many projects and not too much time)
 - Selium Anarchy website(waiting for my friend to finish CSS)
 
 **Finished Projects** <br>
 - None currently
+
+**Temporarily set aside projects** <br>
+- HamCoin
+- OreTx discord bot
+
 
 **Cancelled Projects** <br>
 - None currently
