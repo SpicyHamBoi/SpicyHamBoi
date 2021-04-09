@@ -4,7 +4,7 @@ Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 a
 ## Projects 
 **Active Projects** <br>
 - SpicyHook 
-- HamCoin
+
 
 
 **Unfinished Projects** <br>
@@ -14,7 +14,6 @@ Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 a
 - None currently
 
 **Temporarily set aside projects** <br>
-- HamCoin
 - OreTx discord bot
 
 
