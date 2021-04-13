@@ -8,7 +8,7 @@ Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 a
 
 
 **Unfinished Projects** <br>
-- Selium Anarchy website(waiting for my friend to finish CSS)
+- Selium Anarchy website
 
 **Finished Projects** <br>
 - SpicyHook(maybe will add something new)
