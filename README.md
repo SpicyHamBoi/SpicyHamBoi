@@ -12,6 +12,7 @@ Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 a
 
 **Finished Projects** <br>
 - SpicyHook(maybe will add something new)
+- Selium Anarchy Utilities Bot(its not open source yet)
 
 **Temporarily set aside projects** <br>
 - OreTx discord bot
