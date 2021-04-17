@@ -1,5 +1,5 @@
 ## SpicyHamBoi
-Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 and it's something I genuinely enjoy doing now and will continue doing. I know python and java pretty well now and also know HTML and Kotlin. The majority of my projects are coded in python or java or html. I eventually want to get into C, C++, Go, and JavaScript, CSS. I usually code or play minecraft. Mostly into hacking tools and discord stuff, websites. 
+Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 and it's something I genuinely enjoy doing now and will continue doing. I know python and java pretty well now and also know HTML and Kotlin. Most of my projects are coded in python or java or html. I would want to get into C, C++, Go, JavaScript and CSS. I usually code or play minecraft. Mostly into hacking tools, discord stuff and websites. 
 
 ## Projects 
 **Active Projects** <br>
