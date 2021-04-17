@@ -11,8 +11,8 @@ Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 a
 - Selium Anarchy website
 
 **Finished Projects** <br>
-- SpicyHook(maybe will add something new)
-- Selium Anarchy Utilities Bot(its not open source yet)
+- SpicyHook
+- Selium Anarchy Utilities Bot
 
 **Temporarily set aside projects** <br>
 - None currently
