@@ -24,8 +24,3 @@ Minecraft username - SpicyHamBoy <br />
 Github - you are on github check more carefully
 
 ![Metrics](https://metrics.lecoq.io/SpicyHamBoi?template=terminal&followup=1&languages=1&config.timezone=Europe%2FZurich&config.animated=true)
-
-
-                                                                           
-
-
