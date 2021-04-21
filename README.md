@@ -3,9 +3,7 @@ Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 a
 
 ## Projects 
 **Active Projects** <br>
-- Discord webhooks
-
-
+- Some discord stuff
 
 **Unfinished Projects** <br>
 - Selium Anarchy website
@@ -14,7 +12,7 @@ Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 a
 - SpicyHook
 - Selium Anarchy Utilities Bot
 
-**Temporarily set aside projects** <br>
+**Cancelled projects** <br>
 - None currently
 
 ## Info 
