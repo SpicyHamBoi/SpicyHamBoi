@@ -17,18 +17,13 @@ Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 a
 **Temporarily set aside projects** <br>
 - None currently
 
-
-**Cancelled Projects** <br>
-- None currently
-
-
 ## Info 
 Discord - SpicyHamBoi#8998 <br />
 Website - (coming soon)<br />
 Minecraft username - SpicyHamBoy <br />
 Github - you are on github check more carefully
 
-![SpicyHamBoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpicyHamBoi&show_icons=true&theme=onedark&&hide=stars)
+![Metrics](https://metrics.lecoq.io/SpicyHamBoi?template=terminal&followup=1&languages=1&config.timezone=Europe%2FZurich&config.animated=true)
 
 
                                                                            
