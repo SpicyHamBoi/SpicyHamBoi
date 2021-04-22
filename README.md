@@ -1,7 +1,10 @@
 ## SpicyHamBoi
+
+
+<h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 and it's something I genuinely enjoy doing now and will continue doing. I know python and java pretty well now and also know HTML and Kotlin. Most of my projects are coded in python or java or html. I would want to get into C, C++, Go, JavaScript and CSS. I usually code or play minecraft. Mostly into hacking tools, discord stuff and websites. 
 
-## Projects 
+## <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> My projects</h3>
 **Active Projects** <br>
 - Some discord stuff
 
@@ -15,7 +18,7 @@ Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 a
 **Cancelled projects** <br>
 - None currently
 
-## Info 
+## <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> Info </h3>
 Discord - SpicyHamBoi#8998 <br />
 Website - (coming soon)<br />
 Minecraft username - SpicyHamBoy <br />
