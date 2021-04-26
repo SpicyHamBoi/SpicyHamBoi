@@ -25,7 +25,7 @@ Minecraft username - SpicyHamBoy <br />
 Github - you are on github check more carefully
 
 <p> 
-  <h1 align="center">Visitor count since 2021<br>
+  <h1 align="center">Visitor count since 26.04.2021<br>
   <img src="https://profile-counter.glitch.me/SpicyHamboi/count.svg" />
     </h1>
 </p>
