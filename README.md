@@ -27,7 +27,7 @@ Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 a
   <h3> <img src="https://emojis.slackmojis.com/emojis/images/1611858020/12259/cool_cat.gif?1611858020" width="30"/>Info</h3>
 </p>
 
-Discord - <SpicyHamBoi/>#8998 <br />
+Discord - SpicyHamBoi#8998 <br />
 Website - (coming soon)<br />
 Minecraft username - SpicyHamBoy <br />
 Github - you are on github check more carefully
