@@ -31,7 +31,7 @@ Discord - SpicyHamBoi#8998 <br />
 Website - (coming soon)<br />
 Minecraft username - SpicyHamBoy <br />
 Github - you are on github check more carefully<br />
-Bitcoin address - 18P7JgXVW8Hvp9YuTuDDTEBCN46WJ5pC7X (not necessary to send any but would be apriciated :))
+
 
 <p> 
   <h1 align="center">Visitor count since 26.04.2021<br>
