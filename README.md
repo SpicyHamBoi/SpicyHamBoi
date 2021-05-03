@@ -30,7 +30,7 @@ Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 a
 Discord - SpicyHamBoi#8998 <br />
 Website - (coming soon)<br />
 Minecraft username - SpicyHamBoy <br />
-Github - you are on github check more carefully<br />
+Github - you are on github check, more carefully<br />
 
 
 <p> 
