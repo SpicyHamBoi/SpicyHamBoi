@@ -12,10 +12,10 @@ Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 a
 
 **Active Projects** <br>
 - Selium Anarchy Utilities Bot
+- Selium Anarchy Website
 
 **Unfinished Projects** <br>
-- Selium Anarchy website
-
+- None currently
 **Finished Projects** <br>
 - SpicyHook
 
