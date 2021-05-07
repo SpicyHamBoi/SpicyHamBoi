@@ -11,7 +11,7 @@ Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 a
 </p>
 
 **Active Projects** <br>
-- None currently
+- BitTalus discord bot
 
 
 **Unfinished Projects** <br>
