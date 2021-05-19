@@ -16,7 +16,7 @@ Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 a
 
 
 **Unfinished Projects** <br>
-- None currently
+- Some java plugins
 
 **Finished Projects** <br>
 - SpicyHook
