@@ -1,13 +1,13 @@
 ## SpicyHamBoi
 
 <p align="center">
-  <h3> <img src="https://emoji.gg/assets/emoji/bongocat.gif" width="40"/> About Me </h3>
+  <h3> <img src="https://emojis.slackmojis.com/emojis/images/1563481442/6026/meow_sip.png?1563481442" width="40"/> About Me </h3>
 </p>
 
 Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 and it's something I genuinely enjoy doing now and will continue doing. I know python, java, HTML, kotlin. Most of my projects are coded in python, java or html. I would want to get into C, C++, Go, JavaScript and CSS. I usually code or play minecraft. 
 
 <p align="center">
-  <h3> <img src="https://emoji.gg/assets/emoji/bongocat.gif" width="40"/>My projects</h3>
+  <h3> <img src="https://emojis.slackmojis.com/emojis/images/1563481442/6026/meow_sip.png?1563481442" width="40"/>My projects</h3>
 </p>
 
 **Active Projects** <br>
@@ -28,7 +28,7 @@ Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 a
 - Discord bot that checks sneaker prices
 
 <p align="center">
-  <h3> <img src="https://emoji.gg/assets/emoji/bongocat.gif" width="40"/>Info</h3>
+  <h3> <img src="https://emojis.slackmojis.com/emojis/images/1563481442/6026/meow_sip.png?1563481442" width="40"/>Info</h3>
 </p>
 
 Discord - SpicyHamBoi#8998 <br />
