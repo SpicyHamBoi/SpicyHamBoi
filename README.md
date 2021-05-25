@@ -4,7 +4,7 @@
   <h3> <img src="https://emojis.slackmojis.com/emojis/images/1563481442/6026/meow_sip.png?1563481442" width="40"/> About Me </h3>
 </p>
 
-Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 and it's something I genuinely enjoy doing now and will continue doing. I know python, java, HTML, kotlin. Most of my projects are coded in python, java or html. I would want to get into C, C++, Go, JavaScript and CSS. I usually code or play minecraft. 
+Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 and it's something I genuinely enjoy doing now and will continue doing. I code in Python, Java, HTML and Kotlin. Most of my projects are coded in Python, Java or HTML. I would want to learn - C, C++, Go, JavaScript and CSS.
 
 <p align="center">
   <h3> <img src="https://emojis.slackmojis.com/emojis/images/1563481442/6026/meow_sip.png?1563481442" width="40"/>My projects</h3>
