@@ -38,8 +38,8 @@ Github - you are on github, check more carefully<br />
 
 
 <p> 
-  <h1 align="center">Visitor count since 26.04.2021<br>
-  <img src="https://profile-counter.glitch.me/SpicyHamboi/count.svg" />
+  <h1 align="center">Visitor count<br>
+  <img src="https://profile-counter.glitch.me/SpicyHamBoi/count.svg" />
     </h1>
 </p>
 
