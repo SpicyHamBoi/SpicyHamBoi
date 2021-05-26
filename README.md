@@ -15,6 +15,7 @@ Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 a
 - BitElium website
 - Inventory check plugin for smp minecraft servers
 - Open Anarchy website
+- SpicyBot - Minecraft bot
 
 
 **Unfinished Projects** <br>
