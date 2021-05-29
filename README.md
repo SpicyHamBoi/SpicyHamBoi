@@ -17,7 +17,7 @@ Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 a
 - SpicyBot - Minecraft bot
 
 
-**Projects set aside* <br>
+**Projects set aside** <br>
 - My portfolio website
 - BitTalus discord bot
 
