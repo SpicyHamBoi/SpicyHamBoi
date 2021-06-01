@@ -29,7 +29,7 @@ Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 a
 - Discord bot that checks sneaker prices
 
 <p align="center">
-  <h3> <img src="https://emojis.slackmojis.com/emojis/images/1615699682/20440/fox_snacking.png?1615699682" width="35"/>Info</h3>
+  <h3> <img src="https://emojis.slackmojis.com/emojis/images/1615699682/20440/fox_snacking.png?1615699682" width="35"/>Information</h3>
 </p>
 
 Discord - SpicyHamBoi#8998 <br />
