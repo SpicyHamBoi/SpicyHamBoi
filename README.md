@@ -6,6 +6,8 @@
 
 Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 and it's something I genuinely enjoy doing now and will continue doing. I code in Python, Java, HTML and Kotlin. Most of my projects are coded in Python, Java or HTML. I would want to learn - C, C++, Go, JavaScript.
 
+---
+
 <p align="center">
   <h3> <img src="https://emojis.slackmojis.com/emojis/images/1615699682/20440/fox_snacking.png?1615699682" width="35"/>My projects</h3>
 </p>
@@ -27,6 +29,8 @@ Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 a
 
 **Cancelled projects** <br>
 - Discord bot that checks sneaker prices
+
+---
 
 <p align="center">
   <h3> <img src="https://emojis.slackmojis.com/emojis/images/1615699682/20440/fox_snacking.png?1615699682" width="35"/>Information</h3>
