@@ -13,15 +13,16 @@ Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 a
 </p>
 
 **Active Projects** <br>
-- BitElium website
 - Backdoor plugin for minecraft
 - Open Anarchy website
 - SpicyBot - Minecraft bot
+- Open anarchy minecraft client
 
 
 **Projects set aside** <br>
 - My portfolio website
 - BitTalus discord bot
+- Bitelium website
 
 **Finished Projects** <br>
 - SpicyHook
