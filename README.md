@@ -38,6 +38,7 @@ Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 a
 </p>
 
 Discord - SpicyHamBoi#8998 <br />
+Discord server - https://discord.gg/hhc9V2u6KE <br />
 Website - (coming soon)<br />
 Minecraft username - SpicyHamBoy <br />
 Github - you are on github, check more carefully<br />
