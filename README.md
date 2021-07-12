@@ -13,11 +13,12 @@ Hey there, I'm SpicyHamBoi (for short Spicy) I got into coding around May 2020 a
 </p>
 
 **Active Projects** <br>
-- My own personal website
-- SpicyBot - Minecraft bot
+- WinHax Client - Minecraft "utilities mod"
+- My website
 
 **Projects set aside** <br>
 - Backdoor plugin for minecraft
+- SpicyBot - Minecraft bot
 
 **Finished Projects** <br>
 - SpicyHook
