@@ -1,4 +1,10 @@
+<p align="center">
+  <h3>**CURRENTLY NOT WORKING ON ANYTHING**</h3>
+</p>
+
+
 ## SpicyHamBoi
+
 
 <p align="center">
   <h3>About Me </h3>
