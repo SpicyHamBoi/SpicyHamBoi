@@ -12,8 +12,8 @@ My name is SpicyHamBoi... that's all you need to know
 - SpicyHook
 
 **Cancelled projects** 
-- Discord bot that checks sneaker prices
 
+--
 
 
 Info
