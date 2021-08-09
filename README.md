@@ -1,28 +1,26 @@
 My name is SpicyHamBoi... that's all you need to know
 
-**Active Projects** <br>
-- WinHax Client - Minecraft "utilities mod"
-- My website
+**Active Projects** 
 
-**Projects set aside** <br>
-- Backdoor plugin for minecraft
-- SpicyBot - Minecraft bot
+--
 
-**Finished Projects** <br>
+**Projects set aside** 
+
+--
+
+**Finished Projects** 
 - SpicyHook
 
-**Cancelled projects** <br>
+**Cancelled projects** 
 - Discord bot that checks sneaker prices
 
 
 
 Info
 
-
 Discord - SpicyHamBoi#8998 <br />
 Website - (coming soon)<br />
 Minecraft username - SpicyHamBoy <br />
-Github - you are on github, check more carefully<br />
 
 
 <p> 
