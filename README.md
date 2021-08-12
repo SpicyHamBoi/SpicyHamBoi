@@ -1,22 +1,5 @@
 My name is SpicyHamBoi... that's all you need to know
 
-**Active Projects** 
-
---
-
-**Projects set aside** 
-
---
-
-**Finished Projects** 
-- SpicyHook
-
-**Cancelled projects** 
-
---
-
-
-Info
 
 Discord - SpicyHamBoi#8998 <br />
 Minecraft username - SpicyHamBoy <br />
