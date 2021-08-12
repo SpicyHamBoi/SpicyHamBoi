@@ -19,7 +19,6 @@ My name is SpicyHamBoi... that's all you need to know
 Info
 
 Discord - SpicyHamBoi#8998 <br />
-Website - (coming soon)<br />
 Minecraft username - SpicyHamBoy <br />
 
 
