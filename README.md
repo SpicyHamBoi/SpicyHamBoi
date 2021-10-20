@@ -1,4 +1,4 @@
-My name is SpicyHamBoi... that's all you need to know
+My name is SpicyHamBoi...and i somehow googled my way here.
 
 
 Discord - SpicyHamBoi#8998 <br />
