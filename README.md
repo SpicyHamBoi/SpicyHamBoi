@@ -1,2 +1,4 @@
-My name is SpicyHamBoi and i make bad scripts
+My name is SpicyHamBoi
+
+What the dog doin?
 
